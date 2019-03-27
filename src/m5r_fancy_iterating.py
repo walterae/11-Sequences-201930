@@ -13,7 +13,7 @@ is different from:
 
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
          Mark Hays, Amanda Stouder, Aaron Wilkin, their colleagues,
-         and Audrey Walters.
+         and  Audrey Walters.
 """  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 
