@@ -207,7 +207,7 @@ def run_test_count_short_ones():
 
     # Test 8:
     expected = 2
-    seq = [[12, 5, -9], ['hello'], [1, 2, 3], [1]]
+    seq = [[12, 5, -9], ['hello'], [1, 2, 3], [2]]
     actual = count_short_ones(seq)
     print()
     print('Test 8 expected:', expected)
